@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Lollipop (Bigbang)",
+  "base_artist": "2NE1",
+  "createdAt": "2026-02-10T20:10:42.065597Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lollipop (Bigbang, 2NE1)",
+      "artist": "2NE1",
+      "has_synced": false,
+      "path": "select/01_Lollipop_(Bigbang,_2NE1)_2NE1.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lollipop (Bigbang)",
+      "artist": "2NE1",
+      "has_synced": false,
+      "path": "select/02_Lollipop_(Bigbang)_2NE1.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lollipop (Bigbang)",
+      "artist": "2NE1",
+      "has_synced": true,
+      "path": "select/03_Lollipop_(Bigbang)_2NE1.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lollipop",
+      "artist": "MIKA",
+      "has_synced": true,
+      "path": "select/04_Lollipop_MIKA.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lollipop",
+      "artist": "Viuda E Hijas De Roque Enroll",
+      "has_synced": true,
+      "path": "select/05_Lollipop_Viuda_E_Hijas_De_Roque_Enroll.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lollipop (feat. Shinee)",
+      "artist": "f(x)",
+      "has_synced": false,
+      "path": "select/06_Lollipop_(feat._Shinee)_f(x).txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lollipop",
+      "artist": "Lil Wayne feat. Static Major",
+      "has_synced": true,
+      "path": "select/07_Lollipop_Lil_Wayne_feat._Static_Major.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lollipop (Feat. Static Major)",
+      "artist": "Lil Wayne",
+      "has_synced": true,
+      "path": "select/08_Lollipop_(Feat._Static_Major)_Lil_Wayne.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lollipop (Clubstar mix)",
+      "artist": "DJ Aligator Project",
+      "has_synced": false,
+      "path": "select/09_Lollipop_(Clubstar_mix)_DJ_Aligator_Project.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "DJ Aligator Project / Lollipop (Clubstar mix)",
+      "artist": "Ministry Of Sound",
+      "has_synced": false,
+      "path": "select/10_DJ_Aligator_Project___Lollipop_(Clubstar_mix)_Ministry_Of_Sound.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Lollipop (Candyman)",
+      "artist": "Aqua",
+      "has_synced": true,
+      "path": "select/11_Lollipop_(Candyman)_Aqua.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Lollipop",
+      "artist": "Aqua",
+      "has_synced": true,
+      "path": "select/12_Lollipop_Aqua.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Lollipop (Candyman) - Razor-N-Go Lick It Mix",
+      "artist": "Aqua",
+      "has_synced": true,
+      "path": "select/13_Lollipop_(Candyman)_-_Razor-N-Go_Lick_It_Mix_Aqua.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Lollipop (Candyman) - Extended Version",
+      "artist": "Aqua",
+      "has_synced": true,
+      "path": "select/14_Lollipop_(Candyman)_-_Extended_Version_Aqua.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Lollipop (Candyman) - Radio Edit #1",
+      "artist": "Aqua",
+      "has_synced": true,
+      "path": "select/15_Lollipop_(Candyman)_-_Radio_Edit__1_Aqua.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Lollipop - Feat. Jay-Z, Soopafly, Nate Dogg",
+      "artist": "Snoop Dogg",
+      "has_synced": true,
+      "path": "select/16_Lollipop_-_Feat._Jay-Z,_Soopafly,_Nate_Dogg_Snoop_Dogg.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Lollipop (feat. Jay-Z, Soopafly and Nate Dogg)",
+      "artist": "Snoop Dogg",
+      "has_synced": true,
+      "path": "select/17_Lollipop_(feat._Jay-Z,_Soopafly_and_Nate_Dogg)_Snoop_Dogg.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Lollipop Opera",
+      "artist": "Public Image Ltd.",
+      "has_synced": false,
+      "path": "select/18_Lollipop_Opera_Public_Image_Ltd..txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Lollipop Opera",
+      "artist": "Public Image Ltd",
+      "has_synced": false,
+      "path": "select/19_Lollipop_Opera_Public_Image_Ltd.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lollipop",
+      "artist": "2NE1, BIGBANG",
+      "has_synced": false,
+      "path": "select/pl_01_Lollipop_2NE1,_BIGBANG.txt"
+    }
+  ]
+}
